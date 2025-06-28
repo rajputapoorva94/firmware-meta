@@ -1,0 +1,9 @@
+{
+  "version": "v2.0.0",
+  "firmwares": {
+    "dummy": {
+      "filename": "dummy_file.txt",
+      "url": "https://github.com/rajputapoorva94/firmware_updates/releases/download/v2.0.0/dummy_file.txt"
+    }
+  }
+}
