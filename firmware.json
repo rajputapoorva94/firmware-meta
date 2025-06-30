@@ -1,9 +1,9 @@
 {
-  "version": "v3.0.0",
+  "version": "v4.0.0",
   "firmwares": {
-    "dummyfortest.txt": {
-      "filename": "dummyfortest.txt",
-      "url": "https://github.com/rajputapoorva94/firmware_updates/releases/download/v3.0.0/dummyfortest.txt"
+    "updates.Version.v4.0.0.txt": {
+      "filename": "updates.Version.v4.0.0.txt",
+      "url": "https://github.com/rajputapoorva94/firmware2-test/releases/download/v4.0.0/updates.Version.v4.0.0.txt"
     }
   }
 }
